@@ -538,5 +538,25 @@
     {
         "name": "BANK COMMONWEALTH",
         "code": "950"
+    },
+    {
+        "name": "BANK BJB SYARIAH",
+        "code": "425"
+    },
+    {
+        "name": "BPR KS (KARYAJATNIKA SEDAYA)",
+        "code": "688"
+    },
+    {
+        "name": "INDOSAT DOMPETKU",
+        "code": "789"
+    },
+    {
+        "name": "TELKOMSEL TCASH",
+        "code": "911"
+    },
+    {
+        "name": "LINKAJA",
+        "code": "911"
     }
 ]
