@@ -308,8 +308,8 @@
     "value": "bca_syr"
   },
   {
-    "label": "Bank Artos Indonesia",
-    "value": "artos"
+    "label": "Bank Jago",
+    "value": "jago"
   },
   {
     "label": "Bank Mayora Indonesia",
@@ -334,5 +334,5 @@
   {
     "label": "Commonwealth Bank",
     "value": "commonwealth"
-  }
+  },
 ]
