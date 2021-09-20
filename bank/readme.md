@@ -7,4 +7,3 @@ Berikut merupakan data kode bank yang sering digunakan untuk transfer antarbank.
 ## Sumber 
 - https://flip.id/kode-bank
 - http://www.atmbersama.com/layanan
-- http://www.atmbersama.com/layanan
