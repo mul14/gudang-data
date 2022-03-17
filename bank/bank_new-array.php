@@ -381,7 +381,7 @@ $bank = [
         "code" => "441"
     ],
     [
-        "name" => "BANK SYARIAH MANDIRI",
+        "name" => "BANK SYARIAH INDONESIA",
         "code" => "451"
     ],
     [

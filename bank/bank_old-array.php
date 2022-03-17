@@ -381,7 +381,7 @@ $bank = array(
         "code" => "441"
     ),
     array(
-        "name" => "BANK SYARIAH MANDIRI",
+        "name" => "BANK SYARIAH INDONESIA",
         "code" => "451"
     ),
     array(
